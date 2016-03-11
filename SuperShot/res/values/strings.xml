@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperShot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="exit_app">exit app</string>
+    <string name="Scrolldown_Capture">Cap_Scroll</string>
+    <string name="Done">Done</string>
+    <string name="Cancle">Cancle</string>
+    <string name="composefailed">Sorry,compose failed ! Check adb log .</string>
+    <string name="openpic">Open Image ...</string>
+    <string name="openpicfailed">Open pic Failed !</string>
+    <string name="composing">Composing ...</string>
+    <string name="reachbottom">Reach the bottom</string>
+    <string name="outofmemory">Out of memory</string>
+    <string name="reach_scroll_limit">Reach scroll limit</string>
+    <string name="PermissionDenied">Permission denied,system permission required!</string>
+</resources>
